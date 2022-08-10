@@ -14,7 +14,7 @@ For this project, I utilized JupyterLab running on the Cloud in IBM Skills Netwo
 
 It uses python codes to do data-cleaning, analyse data and create models for price prediction, evaluate and refine models. Major activities covered include:
 
-Numerical representation of data using correlation, linear and polynomial regression, R-Squared values, etc
+Numerical representation of data using correlation, linear and polynomial regression, R-Squared values, etc.
 Graphical representation of data using boxplot, and seaborn's regplot.
 Model refinement suing ridge regression object.
 Polynomial transform of training and test data, etc.
